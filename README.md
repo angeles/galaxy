@@ -1,9 +1,8 @@
-# La Galaxia.
-> <b>Version: 0.0.1</b>
+# MiGalaxia Meli.
+> <b>Version: 0.0.10</b>
 
 
--   Sistema meteorológico de la galaxia que conforman las tres civilizaciones:
-Vulcanos, Ferengis y Betasoides.
+-   Sistema meteorológico de la galaxia que conforman las tres civilizaciones: Vulcanos, Ferengis y Betasoides.
 
 > <b>Premisas:</b>
 
